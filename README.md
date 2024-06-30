@@ -1,6 +1,6 @@
 # tractian_teste
 
-Teste feiro para vaga de Mobile Software Engineer
+Teste feito para vaga de Mobile Software Engineer
 
 ## Getting Started
 
